@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-29T06:46:37.009Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="1qdF_j8hevT5Gkd03NIx" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-29T06:47:25.824Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="Yd2Jo_c0BEzW8-3pFzB7" version="12.4.7" type="github">
   <diagram name="1.消费者购物模型" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="946" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="77e6c97f196da883-6" value="数字资产交易所" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry y="20" width="160" height="730" as="geometry"/>
         </mxCell>
-        <mxCell id="FKbb8wOOI7YHjaS-tfKd-8" value="现金支付&lt;br&gt;法币购买相关通行证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-6">
+        <mxCell id="FKbb8wOOI7YHjaS-tfKd-8" value="5.1、现金支付&lt;br&gt;法币购买相关通行证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-6">
           <mxGeometry x="20" y="350" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="消费者" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
@@ -25,10 +25,10 @@
         <mxCell id="FKbb8wOOI7YHjaS-tfKd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-2" source="FKbb8wOOI7YHjaS-tfKd-1" target="FKbb8wOOI7YHjaS-tfKd-6">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="FKbb8wOOI7YHjaS-tfKd-1" value="确认支付货款&lt;br&gt;选择支付方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-2">
+        <mxCell id="FKbb8wOOI7YHjaS-tfKd-1" value="5、确认支付货款&lt;br&gt;选择支付方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="20" y="350" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="FKbb8wOOI7YHjaS-tfKd-6" value="通证支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-2">
+        <mxCell id="FKbb8wOOI7YHjaS-tfKd-6" value="5.2、通证支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="20" y="490" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="77e6c97f196da883-3" value="平台商家" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
@@ -52,7 +52,7 @@
         <mxCell id="Fx_qvwTIJpHZ31MtcDrz-6" value="4、生成订单（待支付）" style="rounded=0;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry x="30" y="350" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="FKbb8wOOI7YHjaS-tfKd-12" value="支付完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-3">
+        <mxCell id="FKbb8wOOI7YHjaS-tfKd-12" value="6、支付完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="30" y="490" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="Fx_qvwTIJpHZ31MtcDrz-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="77e6c97f196da883-1" source="Fx_qvwTIJpHZ31MtcDrz-1" target="Fx_qvwTIJpHZ31MtcDrz-2" edge="1">
@@ -75,7 +75,7 @@
         <mxCell id="77e6c97f196da883-5" value="仓储物流" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="500" y="20" width="170" height="730" as="geometry"/>
         </mxCell>
-        <mxCell id="FKbb8wOOI7YHjaS-tfKd-15" value="一键代发货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-5">
+        <mxCell id="FKbb8wOOI7YHjaS-tfKd-15" value="7、一键代发货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-5">
           <mxGeometry x="30" y="490" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="FKbb8wOOI7YHjaS-tfKd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-1" source="FKbb8wOOI7YHjaS-tfKd-12" target="FKbb8wOOI7YHjaS-tfKd-15">
