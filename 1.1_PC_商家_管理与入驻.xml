@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-29T07:00:41.808Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="O53_bvutxab_NE7vWeea" version="12.4.7" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-12-29T07:13:07.561Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="NSDbqpU44_W6XNK2UtDs" version="12.4.7" type="github" pages="4">
   <diagram name="1.商家入驻" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="946" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
         <mxCell id="J7JfTmt2KogBQZ-dyacY-538" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=8;" parent="77e6c97f196da883-5" source="J7JfTmt2KogBQZ-dyacY-536" target="J7JfTmt2KogBQZ-dyacY-537" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="J7JfTmt2KogBQZ-dyacY-536" value="品牌商 | 授权经销商" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=8;" parent="77e6c97f196da883-5" vertex="1">
+        <mxCell id="J7JfTmt2KogBQZ-dyacY-536" value="品牌商" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=8;" parent="77e6c97f196da883-5" vertex="1">
           <mxGeometry x="20" y="60" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="J7JfTmt2KogBQZ-dyacY-537" value="2、注册并填写商家信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=8;" parent="77e6c97f196da883-5" vertex="1">
@@ -257,7 +257,7 @@
         <mxCell id="iT3pwUWEOibqkycc2uUm-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="iT3pwUWEOibqkycc2uUm-1" source="iT3pwUWEOibqkycc2uUm-6" target="iT3pwUWEOibqkycc2uUm-4">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="iT3pwUWEOibqkycc2uUm-6" value="客服登录后台" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=8;" vertex="1" parent="iT3pwUWEOibqkycc2uUm-1">
+        <mxCell id="iT3pwUWEOibqkycc2uUm-6" value="登录后台" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=8;" vertex="1" parent="iT3pwUWEOibqkycc2uUm-1">
           <mxGeometry x="20" y="60" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="iT3pwUWEOibqkycc2uUm-7" value="商家审核管理员" style="swimlane;html=1;startSize=20;fontFamily=Helvetica;" vertex="1" parent="iT3pwUWEOibqkycc2uUm-0">
