@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-24T04:46:31.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="-HDdj395foQYMjfSdWkl" version="12.7.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-24T07:27:57.879Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="qyYJ-PxVm5x34TEnrPlG" version="12.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -19,12 +19,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yvz-q42aFwOv377H5Im5-2" value="潜在客户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="BNSuyaTSLoBWICBFApTR-7">
+        <mxCell id="yvz-q42aFwOv377H5Im5-2" value="潜在客户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="BNSuyaTSLoBWICBFApTR-7" vertex="1" connectable="0">
           <mxGeometry x="-0.0917" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yvz-q42aFwOv377H5Im5-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BNSuyaTSLoBWICBFApTR-4" target="BNSuyaTSLoBWICBFApTR-16">
+        <mxCell id="yvz-q42aFwOv377H5Im5-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BNSuyaTSLoBWICBFApTR-4" target="BNSuyaTSLoBWICBFApTR-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="349" y="20" />
@@ -33,7 +33,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yvz-q42aFwOv377H5Im5-1" value="会员" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="yvz-q42aFwOv377H5Im5-0">
+        <mxCell id="yvz-q42aFwOv377H5Im5-1" value="会员" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="yvz-q42aFwOv377H5Im5-0" vertex="1" connectable="0">
           <mxGeometry x="0.2797" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -201,6 +201,35 @@
         </mxCell>
         <mxCell id="BNSuyaTSLoBWICBFApTR-58" value="电话及系统行为记录日志" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="660" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_LX4lXhBV7D4q6kCqqC-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6_LX4lXhBV7D4q6kCqqC-0" target="6_LX4lXhBV7D4q6kCqqC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_LX4lXhBV7D4q6kCqqC-3" value="创建活动合同模版" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="6_LX4lXhBV7D4q6kCqqC-2">
+          <mxGeometry x="0.025" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_LX4lXhBV7D4q6kCqqC-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6_LX4lXhBV7D4q6kCqqC-0" target="6_LX4lXhBV7D4q6kCqqC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_LX4lXhBV7D4q6kCqqC-0" value="合同管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_LX4lXhBV7D4q6kCqqC-4" value="门店可以查看&lt;br&gt;修改关键字|学员姓名，电话等" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_LX4lXhBV7D4q6kCqqC-1" value="集团总部法务：查看| 审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_LX4lXhBV7D4q6kCqqC-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6_LX4lXhBV7D4q6kCqqC-10" target="6_LX4lXhBV7D4q6kCqqC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_LX4lXhBV7D4q6kCqqC-10" value="权限及角色管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="89" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_LX4lXhBV7D4q6kCqqC-11" value="门店管理员可以给门店角色分配权限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="259" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
