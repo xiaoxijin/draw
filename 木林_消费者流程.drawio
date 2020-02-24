@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-24T03:41:03.733Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="hmY8nSZJ771hZd8XHcK8" version="12.7.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-24T03:59:17.189Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="83Ybx97NywIJ-vE_blM6" version="12.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="340" />
+              <mxPoint x="420" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -28,52 +28,88 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BNSuyaTSLoBWICBFApTR-0" value="地推线下扫码" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BNSuyaTSLoBWICBFApTR-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BNSuyaTSLoBWICBFApTR-2" target="BNSuyaTSLoBWICBFApTR-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BNSuyaTSLoBWICBFApTR-2" value="新客户，生日，姓名，手机号" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BNSuyaTSLoBWICBFApTR-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BNSuyaTSLoBWICBFApTR-8" target="BNSuyaTSLoBWICBFApTR-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BNSuyaTSLoBWICBFApTR-8" value="销售主管分配客户给客服，电话联系" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BNSuyaTSLoBWICBFApTR-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BNSuyaTSLoBWICBFApTR-10" target="BNSuyaTSLoBWICBFApTR-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BNSuyaTSLoBWICBFApTR-10" value="销售漏斗，标准流程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BNSuyaTSLoBWICBFApTR-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BNSuyaTSLoBWICBFApTR-12" target="BNSuyaTSLoBWICBFApTR-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BNSuyaTSLoBWICBFApTR-12" value="邀约到访，参观咨询" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BNSuyaTSLoBWICBFApTR-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BNSuyaTSLoBWICBFApTR-14" target="BNSuyaTSLoBWICBFApTR-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BNSuyaTSLoBWICBFApTR-14" value="安排试听课程，跟踪，回访" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="680" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BNSuyaTSLoBWICBFApTR-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BNSuyaTSLoBWICBFApTR-16" target="BNSuyaTSLoBWICBFApTR-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BNSuyaTSLoBWICBFApTR-16" value="成单，签订合同" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="680" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BNSuyaTSLoBWICBFApTR-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BNSuyaTSLoBWICBFApTR-18" target="BNSuyaTSLoBWICBFApTR-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BNSuyaTSLoBWICBFApTR-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BNSuyaTSLoBWICBFApTR-18" target="BNSuyaTSLoBWICBFApTR-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BNSuyaTSLoBWICBFApTR-18" value="排课（报课实现，根据合同内容提醒）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="800" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BNSuyaTSLoBWICBFApTR-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BNSuyaTSLoBWICBFApTR-34" target="BNSuyaTSLoBWICBFApTR-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNSuyaTSLoBWICBFApTR-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BNSuyaTSLoBWICBFApTR-34" target="BNSuyaTSLoBWICBFApTR-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNSuyaTSLoBWICBFApTR-34" value="上课开始，扫二维码签到" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="610" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BNSuyaTSLoBWICBFApTR-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BNSuyaTSLoBWICBFApTR-38" target="BNSuyaTSLoBWICBFApTR-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNSuyaTSLoBWICBFApTR-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BNSuyaTSLoBWICBFApTR-38" target="BNSuyaTSLoBWICBFApTR-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNSuyaTSLoBWICBFApTR-38" value="老师上传课程照片，视频，点评每个学员" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BNSuyaTSLoBWICBFApTR-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BNSuyaTSLoBWICBFApTR-44" target="BNSuyaTSLoBWICBFApTR-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNSuyaTSLoBWICBFApTR-44" value="课程上完" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BNSuyaTSLoBWICBFApTR-46" value="触发销售，授权老师课程记录，计算老师课时费用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="760" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BNSuyaTSLoBWICBFApTR-40" value="家长查看" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BNSuyaTSLoBWICBFApTR-36" value="客户主账户&lt;br&gt;监护人管理&lt;br&gt;学员管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="355" y="600" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BNSuyaTSLoBWICBFApTR-20" value="触发教务提醒" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="800" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BNSuyaTSLoBWICBFApTR-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BNSuyaTSLoBWICBFApTR-22" target="BNSuyaTSLoBWICBFApTR-23">
           <mxGeometry relative="1" as="geometry" />
@@ -101,6 +137,27 @@
         </mxCell>
         <mxCell id="BNSuyaTSLoBWICBFApTR-32" value="如果无满足预定条件的课程，只能选择取消，进入待定排课学员列表，提醒教务与家长，下次排课周期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="700" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BNSuyaTSLoBWICBFApTR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BNSuyaTSLoBWICBFApTR-38" target="BNSuyaTSLoBWICBFApTR-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNSuyaTSLoBWICBFApTR-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BNSuyaTSLoBWICBFApTR-48" target="BNSuyaTSLoBWICBFApTR-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNSuyaTSLoBWICBFApTR-48" value="课时管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BNSuyaTSLoBWICBFApTR-49" value="授权老师与课时绑定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BNSuyaTSLoBWICBFApTR-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BNSuyaTSLoBWICBFApTR-52" target="BNSuyaTSLoBWICBFApTR-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNSuyaTSLoBWICBFApTR-52" value="学员课表展示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BNSuyaTSLoBWICBFApTR-53" value="授权老师，课程名称，学阶（哪个年龄段），班级人数（显示已约人数/总人数）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
