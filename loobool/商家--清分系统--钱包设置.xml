@@ -1,1 +1,91 @@
-<mxfile userAgent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36" version="8.5.12" editor="www.draw.io" type="github"><diagram id="3346bec7-ae7b-80b2-cf66-016f55987a6a" name="第 1 页">5VrPk5sgFP5rOO6M+APlGLNme2hPe+iZjazaNSFDyCbpX19AjLHSnUw7leh6cJ4PUPje9x4PEATLzemJk135jeW0Br6Xn0DwCHwfR568K8W5UURe0CgKXuWNCnaK5+onNUrTrjhUOd33KgrGalHt+so1227pWvR0hHN27Fd7ZXX/qztS0IHieU3qofZ7lYuy0SZ+3Om/0Koo2y9DhJuSF7J+Kzg7bM33gB+86qsp3pD2XWag+5Lk7HilCjIQLDljopE2pyWtFbQtbE271R9KL/3mdCtuaRA2Dd5JfaBtj3W/xLnFguYSGvPIuChZwbakzjptqsdL1Rs9+VSKTS1FKMUfVIizsS45CCZV3Ru+MrYz9faCsze6ZDXj+pvBauXJS5YMx2OGuGcHvjY9NH0WhBfU1DJ0U32/amYweKJsQwU/ywqc1kRU732zE8Oe4lKvQ1AKBkQ7oP4Q0CwCOAIJUsIiA6kWUgzSQAnJCqTewwPIYlW4gErAnqmOIcCJ1sjqqW73qF72u406Cyg4j2Ul6POOaHyO0kH7Vnmt6rqHtbo+wvqdckFPH+JoSkNk+mb8PjQ0P3ZOBFvql1cOhLx/Rx7NgcrBkMqRKyoHFiojkCYgiTRxpYAUcTHAPkih1i11YaJ5niniSr5KeSp8hcmIhE3mQNhoSNjYFWHb7GF2iGJniFqms1kgCqErSCNrgqCDqQqcaQgWSMXZRaKTAZkDyBk/tqQHU4mpgT9iTL10d9KEbdl5zdgWMQdBwILpDZSV6QOqZefTFy6lQlwGf4ecRcFveSsak7OWaUuB6Kl0SqX8scJ3umAib0QwIZ5DAMCWGStx5f8WRG9w/yHs98LPwSJ1TGeHlqzf4uwTgW5c157FZlVscW1nu1XxX7k2HMB+L/xsl+9OPHsWG1DQsgMFnW1B2fag5oFpOxAH6bxtXy9S+3ZqQ1q6PgQ47Hm/jAdpPBWfH3VKsq3mp8fPttM9fobOfN4yKc0EU+QMU/9Gnzf79hFYhCCZjM/HY54z2dZDE+QnsvDT2RLTdng34Of+7TAVQiZjniPZDpKGR3BWOO3J/koHg1A1TyQ4HoiX6p5hFRIwVMLCV0uBe7WGW3NYlqk3mMMSfT+JdUaN3tB2/jK0TqxAlqveS/Z7S4b8Sez1PzNs+dj9/KTLrn4wC7Jf</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-08T03:37:50.134Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" version="12.9.9" etag="X0RUTXBlCirM_yOkqXCP" type="github">
+  <diagram id="3346bec7-ae7b-80b2-cf66-016f55987a6a" name="第 1 页">
+    <mxGraphModel dx="946" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#FF0000;" parent="1" source="2" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="商家平台--管理员登录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="465" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#FF0000;" parent="1" source="3" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="清分--钱包设置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="465" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#FF0000;" parent="1" source="5" target="7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#FF0000;" parent="1" source="5" target="9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#FF0000;" parent="1" source="5" target="11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="分账模块管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="465" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#FF0000;" parent="1" source="11" target="20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="分账模块3&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="635" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="同左&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="635" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#FF0000;" parent="1" source="9" target="18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="分账模块2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="465" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="同左" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="465" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#FF0000;" parent="1" source="7" target="13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="分账模块1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="80" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#FF0000;" parent="1" source="13" target="15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#FF0000;" parent="1" source="13" target="22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="关联账户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="80" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#FF0000;" parent="1" source="22" target="24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#FF0000;" parent="1" source="22" target="26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="关联活动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="80" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#FF0000;" parent="1" source="26" target="28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="关联产品" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="80" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="设置关联产品分账比例 | 金额" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="280" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="设置关联活动分账比例 | 金额" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="280" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="设置用户关联账户分账比例 | 金额" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="280" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
