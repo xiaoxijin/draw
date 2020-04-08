@@ -1,1 +1,69 @@
-<mxfile userAgent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36" version="8.5.12" editor="www.draw.io" type="github"><diagram id="b23d20af-7300-1aae-e568-dd2f3ca684ec" name="第 1 页">7VlLc5swEP41unYQ4iEdgeD20M50Joc2R2IrmAZbHlmO7f76roQAY8iMmwexPeHASCtpJXa/b7USiCSL3VeZreY/xIyXyHVmO0RukOsy34G3Fuwrge+QSpDLYlaJcCu4Lf5yK7Tj8k0x4+tORyVEqYpVVzgVyyWfqo4sk1Jsu90eRNmddZXlvCe4nWZlX/qrmKl5JaVu2Mq/8SKf1zPjgFUt99n0MZdis7TzIZc8mKdqXmS1Lvuh63k2E9sDEUkRSaQQqiotdgkvtWlrs1XjJs+0NuuWfKlOGeBWA56ycsPrFZt1qX1tCz4D09iqkGoucrHMyrSVxuZ7udboQG2uFiUUMRT/cKX21rvZRgkQtRq+C7Gy/dZKikeeiFJIMyeZTBx4oKVajV5C5wPXYiOnVmSRpTKZc/vNXt8MuDEuYJaLBVdyD10kLzNVPHW1ZxY9edOvtSAUrBGHDUr6Bk0DFAeIUpRSFHsoZrpAHUR9lPqIJSiiug+b6HIKHW4QAzUOChP9ThlioenjozjS5UpPdGM6MxQ7phChKDQKCaK458XWR9rg23mh+O0qMzbcAoW7fnsoyrLjDf003njiUvHds4B7xtJ2AAkt8m1k8Gx129IM1+SYH1AscF7vm+Aywd4zbhf/Xh///khg9wbADkiMETOIjhIUpxqSUYpooiVAAub0jH6u2MR0RHDSqwSn3wdnOBI4/Z5BMUqJCbzYROAUxSZgUgi8gZYATC1ePURD0OMGJSw6vpdQynXJPdAAaGa2P8BaB2Ffh/SYGOUYMc820aCO2IFhBUyETaCGOD84y8UQhLgjEqTODa+MIWGfIWwkhuALzf7+36J4rPQPD2yJV2pSMpJJw4EkA6KoYxJpCMI3Om6fFmnTCYoTk4r0w/+QgpjaJB0mYf4FB2ovGDNQszPnABhR7n9rzV/8unpnJ+K7Qh00Qe3O6nsZc/DA8RS/Nj+3Q3+KAmZunB64XaeH3pEzqzXYUUf+bJZxmouHj7nHpAx1ElSdbnWKFA6lSA3dDBMbStLoGU5PzChPZ1407pySKUyHdSFyNeP7bK3WA+fs5iRyXaz3gy4AAmdM1g/E6bNi/Qv5W18/viV/T7YpPolmxyeXT5qNurmOS7Nzv8R66w2UfSD/BhKZHv3Wj5tPvr0r35pruI/gmzsQgs+Kby/c1gYu5g5+QL3ztta/mnshiHXnFEW+ZVdELgjWx9tIOOavEHfgMi01t5iUHOTtvvm/ROoo5nRdUHnnilxA3/HCH6rtb93qyNX+OifpPw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-08T03:39:45.995Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" version="12.9.9" etag="twtjhpD5PCMCwkYaMsXE" type="github">
+  <diagram id="b23d20af-7300-1aae-e568-dd2f3ca684ec" name="第 1 页">
+    <mxGraphModel dx="946" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#FF0000;" parent="1" source="3" target="4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="消费者购买产品" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="370" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#FF0000;" parent="1" source="4" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="付款完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="370" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#FF0000;" parent="1" source="5" target="7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="&lt;br&gt;找到关联分账模块id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="370" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#FF0000;" parent="1" source="7" target="9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#FF0000;" parent="1" source="7" target="11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#FF0000;" parent="1" source="7" target="13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="根据分账模块id，获取分账清单&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="370" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#FF0000;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" parent="1" source="13" target="15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="根据用户关联账号及分账比例 | 金额&lt;br&gt;生成分账清单&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="560" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#FF0000;" parent="1" source="11" target="15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="根据活动关联账号及分账比例 | 金额&lt;br&gt;生成分账清单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="370" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#FF0000;exitX=0.5;exitY=1;" parent="1" source="9" target="15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="根据产品关联账号及分账比例 | 金额&lt;br&gt;生成分账清单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="180" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#FF0000;" parent="1" source="15" target="20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="生成分账清单接口&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="370" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="调用平台清分接口&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="370" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
